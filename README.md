@@ -43,7 +43,7 @@ Docker Compose (PostgreSQL), Responsive UI, Service layer.
 ## Cara Instalasi
 
 ```bash
-git clone <url-repository-ini> fms
+git clone https://github.com/ahmadzataq/laravel-file-management-system.git fms
 cd fms
 
 composer install
